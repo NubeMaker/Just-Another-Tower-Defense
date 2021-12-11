@@ -1,0 +1,26 @@
+{
+  "kind": 0,
+  "closed": false,
+  "precision": 4,
+  "points": [
+    {"speed":100.0,"x":88.0,"y":0.0,},
+    {"speed":100.0,"x":88.0,"y":0.0,},
+    {"speed":100.0,"x":88.0,"y":240.0,},
+    {"speed":100.0,"x":280.0,"y":240.0,},
+    {"speed":100.0,"x":280.0,"y":400.0,},
+    {"speed":100.0,"x":504.0,"y":400.0,},
+    {"speed":100.0,"x":504.0,"y":80.0,},
+    {"speed":100.0,"x":600.0,"y":80.0,},
+    {"speed":100.0,"x":600.0,"y":496.0,},
+    {"speed":100.0,"x":152.0,"y":496.0,},
+    {"speed":100.0,"x":152.0,"y":608.0,},
+  ],
+  "parent": {
+    "name": "Just Another Tower Defense",
+    "path": "Just Another Tower Defense.yyp",
+  },
+  "resourceVersion": "1.0",
+  "name": "Path1",
+  "tags": [],
+  "resourceType": "GMPath",
+}
